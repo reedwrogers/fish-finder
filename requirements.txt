@@ -1,0 +1,9 @@
+geopandas
+shapely
+osmnx==1.3.0
+folium
+requests
+openrouteservice
+matplotlib
+pandas
+openrouteservice
