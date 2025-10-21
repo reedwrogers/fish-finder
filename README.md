@@ -6,7 +6,7 @@
 
 Finding good fishing spots can be surprisingly tedious. While tools like Google Earth make it easy to locate water bodies and access routes, the manual process of exploring maps, checking for public access, and assessing the potential of each location is time-consuming.
 
-Because of this, it’s easy to overlook promising or “hidden gem” fishing locations — simply due to the sheer amount of map-scanning required.
+Because of this, it’s easy to overlook promising or “hidden gem” fishing locations - simply due to the sheer amount of map-scanning required.
 
 ## Solution
 
